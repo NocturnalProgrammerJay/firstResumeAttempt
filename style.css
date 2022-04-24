@@ -1,0 +1,117 @@
+table, td, th {
+   border-spacing: white;
+   border: 1px solid#000;
+   border-color: white;
+}
+table{
+   width: 800px;
+   height: 200px;
+}
+
+ul{
+   text-align: left;
+}
+
+td, th{
+   text-align: center;
+}
+
+#vquiz{
+   color: rgb(10, 228, 235);
+   font-size: 50px;
+}
+
+
+.title2{
+   color: rgb(10, 228, 235);
+   font-size: 50px
+}
+
+.title1{
+   font-size: 50px
+}
+
+.text-danger{
+   font-size: 50px;
+}
+
+.url{
+   font-size: 20px;
+}
+
+nav a{
+   color: gold;
+   flex-grow: 1;
+}
+
+
+h1{
+   size: 100px;
+}
+
+span{
+   color: white;
+   font-size: 20px;
+}
+
+body{
+   margin: 15px;
+   background-color: black;
+   color: white;
+   font-family: 'Public Sans', sans-serif;
+}
+
+#label {
+   width: 50px;
+   display: inline-block;
+   text-align: right;
+   margin-right: 8px;
+}
+
+
+input[type=text], select {
+   width: 350px;
+   padding: 10px;
+   margin: 6px 0;
+   border: 1px solid #aaa;
+   border-radius: 4px;
+}
+
+#id{
+   padding: 10px;
+}
+
+
+#floatright{
+   float: right;
+}
+
+
+#nofloat{
+   clear: right;
+}
+
+#nofloatl{
+   clear: left;
+
+}
+a:hover{
+   color: white;
+}
+
+.me{
+   clip-path: circle();
+}
+
+.name{
+   font-family: Bebas Neue;
+   font-size: 75px;
+}
+
+.header{
+   font-size: 50px;
+}
+
+.badges{
+   font-size: 100px;
+}
