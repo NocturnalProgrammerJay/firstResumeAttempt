@@ -14,12 +14,10 @@ You can access the application by following this link: https://nocturnalprogramm
 
 The professional resume application has the following features:
 
-* A responsive design that adapts to different screen sizes.
 * A navigation bar that allows users to easily navigate through the different sections of the resume.
 * A skills section that lists my technical skills and the proficiency level for each skill.
 * An education section that lists my academic qualifications and the institutions where I obtained them.
 * A work experience section that lists my previous work experience and the roles I played in those positions.
-* An achievements section that highlights some of my notable accomplishments.
 
 ## How to Use
 
